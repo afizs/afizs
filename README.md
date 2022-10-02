@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afizs
+- 👋 Hi, I’m Afiz from India 🇮🇳
 - Sr. Software Engineer  
 - 👀 I’m interested in Python, Data Science and Machine Learning along with ReactJS.
 - 🌱 I’m currently exploring AI platforms and learning ML.
