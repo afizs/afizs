@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afizs
-- Full time Software Developer.  
+- Sr. Software Engineer  
 - 👀 I’m interested in Python, Data Science and Machine Learning along with ReactJS.
 - 🌱 I’m currently exploring AI platforms and learning ML.
 - 💞️ I’m looking to collaborate on any opensource project.
